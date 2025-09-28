@@ -1,0 +1,5 @@
+{
+  "name": "Tatoo Veo Animated Film Generator",
+  "description": "An application to generate animated video scenes using AI. Describe your scene, select characters, music, and camera angles to create a short animated film clip.",
+  "requestFramePermissions": []
+}
